@@ -21,7 +21,14 @@ DOMAIN-SUFFIX,byabcde.com
 DOMAIN-SUFFIX,byapps.net
 DOMAIN-SUFFIX,byd3c3.com
 DOMAIN-SUFFIX,bybdc6.com
-DOMAIN-SUFFIX,appsflyer.com
+appsflyer.com
+
+DOMAIN-SUFFIX,bybit-global.com
+DOMAIN-SUFFIX,bybit.cloud
+DOMAIN-SUFFIX,bybitglobal.com
+DOMAIN-SUFFIX,api3.bybit.biz
+DOMAIN-SUFFIX,bybit-exchange.github.io
+DOMAIN-SUFFIX,bybit.ada.support
 
 # Bybit 交易所 IP 地址
 IP-CIDR,13.32.121.6/32
